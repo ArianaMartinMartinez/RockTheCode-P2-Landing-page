@@ -32,15 +32,15 @@
 
   .sidebar {
     border: #9ad79b dotted 1px;
-    left: 105rem;
-    margin: 2rem;
-    padding: 1rem;
-    position: relative;
-    width: 10rem;
+    padding: 20px;
+    position: absolute;
+    right: 2rem;
+    top: 16rem;
   }
 
   .features {
     border: #9ad79b dotted 1px;
+    margin-top: 15rem;
     padding: 1.5rem;
     text-align: center;
   }
@@ -48,8 +48,8 @@
   footer {
     border: #9ad79b dotted 1px;
     bottom: 0;
-    margin-top: 25rem;
     padding: 2rem;
-    position: relative;
+    position: fixed;
     text-align: center;
+    width: 100%;
   }
