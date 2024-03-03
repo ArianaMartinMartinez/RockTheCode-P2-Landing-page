@@ -46,6 +46,7 @@
   }
 
   footer {
+    background-color: #000000c4;
     border: #9ad79b dotted 1px;
     bottom: 0;
     padding: 2rem;
